@@ -8,9 +8,9 @@
 ---
 
 ## 🌟 About Me
-- 👨‍💻 I’m a **Full-Stack Software Engineer** with a focus on **scalable web applications** and **backend systems**.
+- 👨‍💻 I’m a **Software Engineer/AI developer** with a focus on **scalable web applications** and **backend systems**.
 - 🔭 Currently, I’m exploring advanced concepts in **Kubernetes**, **Cloud Infrastructure**, and **Machine Learning**.
-- 📫 Reach me at **pabbathireddyakhilreddy@gmail.com** or [LinkedIn](https://linkedin.com/in/akhil-reddy-da).
+- 📫 Reach me at **pabbathireddyakhilreddy@gmail.com**.
 - ⚡ Fun fact: I thrive on debugging challenging problems and drinking coffee ☕ while brainstorming solutions.
 
 ---
