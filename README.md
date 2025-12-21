@@ -1,79 +1,102 @@
 <h1 align="center">Hi 👋, I'm Akhil Reddy Pabbathi Reddy</h1>
-<h3 align="center">A passionate software developer and problem-solver from the United States.</h3>
+<h3 align="center">
+Generative AI Engineer | Machine Learning Engineer | Software Engineer
+</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=akhilreddy030&label=Profile%20views&color=0e75b6&style=flat" alt="akhilreddy030" /> 
+<p align="center">
+I build production-grade AI and software systems where scale, reliability, and trust matter.
 </p>
 
 ---
 
-## 🌟 About Me
-- 👨‍💻 I’m a **Software Engineer/AI developer** with a focus on **scalable web applications** and **backend systems**.
-- 🔭 Currently, I’m exploring advanced concepts in **Kubernetes**, **Cloud Infrastructure**, and **Machine Learning**.
-- 📫 Reach me at **pabbathireddyakhilreddy@gmail.com**.
-- ⚡ Fun fact: I thrive on debugging challenging problems and drinking coffee ☕ while brainstorming solutions.
+## About Me
+
+I am a **Generative AI and Machine Learning Engineer** with a strong **software engineering foundation**, experienced in building and operating **production systems** across FinTech and healthcare domains.
+
+My work spans **LLM-powered applications, real-time ML pipelines, backend services, and MLOps**, with a focus on taking ideas from experimentation to **reliable, scalable production**.
+
+I enjoy working on complex systems where **engineering discipline, data, and AI intersect**.
+
+📫 Reach me at: **pabbathireddyakhilreddy@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
-### Programming Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## Core Expertise
 
-### Frameworks & Libraries:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**AI / Machine Learning**
+- Generative AI, Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Model training, fine-tuning, and inference
+- Model evaluation, explainability, and governance
+- MLOps and ML lifecycle automation
 
-### DevOps & Cloud:
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Software Engineering**
+- Backend services and APIs
+- Real-time data processing pipelines
+- Distributed systems and event-driven architectures
+- CI/CD and production reliability
 
----
-
-## 📂 Featured Projects
-
-### [Commerce360: E-Commerce Platform](https://github.com/akhilreddy030/Commerce360-MERN_STORE)
-- **Impact**: Processed 1,000+ daily transactions with secure Stripe integration.  
-- **Focus**: Optimized user experience with JWT authentication.  
-- **Tech**: React.js, MongoDB, Node.js, Stripe.
-
-### [RoamSafe: Roadside Assistance Platform](https://github.com/akhilreddy030/RoamSafe-Roadside-Assistance-Platform)
-- **Impact**: Reduced response times by 25% with real-time geolocation.  
-- **Focus**: Ensured seamless service availability.  
-- **Tech**: Google Maps API, JWT, AWS Lambda.
-
-### [CloudCast: Real-Time Weather Insights](https://github.com/akhilreddy030/CloudCast-Real-Time-Weather-Insights)
-- **Impact**: Provided accurate weather data for 1,000+ users daily.  
-- **Focus**: Integrated geolocation and weather APIs for precise insights.  
-- **Tech**: React.js, OpenWeatherMap API, Material-UI.
+**Cloud & Platforms**
+- AWS (Bedrock, SageMaker, Lambda)
+- Docker and Kubernetes
+- Databricks, Airflow, Kafka, Spark
 
 ---
 
-## 🌱 Current Learning Goals
-- **Enhancing backend performance** for high-traffic systems.  
-- **Improving ML model deployment pipelines** using TensorFlow.  
-- **Exploring Kubernetes orchestration** for scalable microservices.
+## Selected Projects
+
+### Commerce360 — E-Commerce Platform
+**Tech:** React, Node.js, MongoDB, Stripe  
+- Built a full-stack e-commerce platform supporting secure payments and authentication
+- Designed scalable backend services and REST APIs
+- Focused on performance, security, and user experience
+
+🔗 https://github.com/akhilreddy030/Commerce360-MERN_STORE
 
 ---
 
-## 🌍 Open Source Contributions
-- Contributed to **[FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** by improving documentation and curriculum.  
-- Fixed critical bugs in **[OpenWeatherMap API Client](https://github.com/.../OpenWeatherMap-API-Client)** to ensure data accuracy.
+### RoamSafe — Driver Safety & Assistance Platform
+**Tech:** AWS, Serverless, APIs, Geolocation  
+- Developed a platform focused on improving driver safety and roadside assistance workflows
+- Implemented real-time location tracking and service coordination
+- Project selected for academic showcase due to real-world applicability
+
+🔗 https://github.com/akhilreddy030/RoamSafe-Roadside-Assistance-Platform
 
 ---
 
-## 🔗 Connect with Me
+### CloudCast — Real-Time Weather Insights
+**Tech:** React, APIs, Cloud Services  
+- Built a real-time weather application with geolocation-based insights
+- Designed clean UI and API integrations for reliability and responsiveness
+
+🔗 https://github.com/akhilreddy030/CloudCast-Real-Time-Weather-Insights
+
+---
+
+## Open Source & Community
+
+- Contributor to **FreeCodeCamp**, improving documentation and learning resources
+- Participated in bug fixes and improvements for open-source API clients
+
+---
+
+## What I’m Interested In
+
+- Building **production LLM systems**
+- AI systems in **regulated or high-impact domains**
+- Backend and platform engineering
+- Scalable ML and AI infrastructure
+
+---
+
+## Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/akhil-reddy-da" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/akhil-reddy-jfsd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pabbathireddyakhilreddy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/akhilreddy030" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
