@@ -17,7 +17,7 @@ My work spans **LLM-powered applications, real-time ML pipelines, backend servic
 
 I enjoy working on complex systems where **engineering discipline, data, and AI intersect**.
 
-📫 Reach me at: **pabbathireddyakhilreddy@gmail.com**
+📫 Reach me at: **a.pabbathireddy03@gmail.com**
 
 ---
 
